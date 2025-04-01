@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/textClassifier/__init__.py
+src/textClassifier/components/__init__.py
+src/textClassifier/constants/__init__.py
+src/textClassifier/entity/__init__.py
+src/textClassifier/pipeline/__init__.py
+src/textClassifier/utils/__init__.py
+src/text_summarization.egg-info/PKG-INFO
+src/text_summarization.egg-info/SOURCES.txt
+src/text_summarization.egg-info/dependency_links.txt
+src/text_summarization.egg-info/top_level.txt

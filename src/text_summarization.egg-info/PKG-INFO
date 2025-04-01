@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: text_summarization
+Version: 0.1.0
+Summary: A text summarization python project
+Home-page: https://github.com/suzzane123/text_summarization
+Author: suzzane123
+Author-email: Sushant Thpa <momsryder8@gmail.com>
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+
+# text_summarization
+Python app for text summarization
