@@ -5,7 +5,7 @@ sacrebleu
 rouge_score
 py7zr
 pandas
-nltk
+nltk == 3.9.1
 tqdm
 PyYAML
 matplotlib
